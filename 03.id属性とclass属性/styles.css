@@ -15,3 +15,34 @@ p {
     color: red;
 }
 /* 6つのli要素に適用するスタイルを宣言 */
+li {
+    font-size: 16px;
+}
+
+.string-yellow {
+    color: yellow;
+}
+
+.string-blue {
+    color: blue;
+}
+
+.string-red {
+    color: red;
+}
+
+.back-grey {
+    background-color: grey;
+}
+
+.back-green {
+    background-color: green;
+}
+
+.back-brown {
+    background-color: brown;
+}
+
+#small {
+    font-size: 12px;
+}
